@@ -1,0 +1,82 @@
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+#nav{
+  background: url(https://www.wallpapertip.com/wmimgs/30-306212_ultra-widescreen-wallpaper-pc-ultrawide.jpg) no-repeat scroll top left; background-color: none;
+     width:1300px;
+     height:65px;
+      box-shadow: 0px 1px 10px #5E5E5E;
+      position: relative;
+      top:5px;
+}
+#myUl{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#myLi{
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+table {
+  background-image:url(file:///C:/Users/stein/OneDrive/Pictures/jh.jpg);
+  color: white;
+  border-collapse: collapse;
+}
+table, tr, td{
+  border: 4px solid black;
+}
+th{
+  text-align: left;
+  background-color: black;
+}
+body {
+  background-color: lightblue;
+}
+iframe {
+  position: relative;
+  bottom: 500px;
+  right: 50px;
+}
+#myIframe {
+  position: relative;
+  bottom: 920px;
+  right: 50px;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+h1 {
+  /* Zonder schreef */
+  font-family: georgia;
+}
+</style>
+</head>
+</html>
