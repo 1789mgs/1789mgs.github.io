@@ -230,7 +230,29 @@ h1 {
 }
 }
 
-
+.blok1{
+  box-sizing: border-box;
+  padding: 0px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
+#giel{
+  max-width: 40%
+}
+.giel {
+  align: right;
+  box-sizing: border-box;
+  padding: 10px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
+.example1 {
+  float: left;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
 
 
 * {
