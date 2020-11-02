@@ -270,7 +270,23 @@ h1 {
   border: 10px solid transparent;
   margin: 10px;
 }
-
+#stein{
+  max-width: 40%
+}
+.stein {
+  align:right;
+  box-sizing: border-box;
+  padding: 10px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
+.example3 {
+  float: left;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
 
 .blok3{
   box-sizing: border-box;
