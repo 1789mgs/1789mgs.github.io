@@ -342,4 +342,9 @@ body {
   background: #ddd;
   color: black;
 }
-
+.border {
+  box-sizing: border-box;
+  padding: 0px;
+  border: 30px solid transparent;
+  margin: 10px;
+}
