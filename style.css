@@ -253,6 +253,12 @@ h1 {
   border: 10px solid transparent;
   margin: 10px;
 }
+.blok2{
+  box-sizing: border-box;
+  padding: 0px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
 #max{
   max-width: 40%
 }
@@ -265,6 +271,13 @@ h1 {
 }
 .example2 {
   float: right;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 10px solid transparent;
+  margin: 10px;
+}
+
+.blok3{
   box-sizing: border-box;
   padding: 0px;
   border: 10px solid transparent;
